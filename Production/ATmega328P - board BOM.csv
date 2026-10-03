@@ -1,0 +1,19 @@
+Reference,Qty,Value,,Footprint,,,,,Part Number,,Link,,,,,Cost
+C1,1,10uF,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,,,,,C2841113,,https://www.lcsc.com/it/product-detail/C2841113.html,,,,,0.95€
+"C2,C10,C11",3,10uF,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,,,,,C2841113,,https://www.lcsc.com/it/product-detail/C2841113.html,,,,,0.95€
+"C3,C4",2,22pF,,Capacitor_SMD:C_0805_2012Metric,,,,,C1804,,https://www.lcsc.com/it/product-detail/C1804.html,,,,,0.55€
+"C6,C7,C8,C9",4,100nF,,Capacitor_SMD:C_0805_2012Metric,,,,,C49678,,https://www.lcsc.com/it/product-detail/C49678.html,,,,,0.34€
+D1,1,1N5819,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,,,,,C2474,,https://www.lcsc.com/it/product-detail/C2474.html,,,,,
+,,,,,,,,,,,,,,,,
+J1,1,Jack-DC,,Connector_BarrelJack:BarrelJack_Horizontal,,,,,C194407,,https://www.lcsc.com/it/product-detail/C194407.html,,,,,0.54€
+J6,1,Conn_02x03_Odd_Even,,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,,,,,C65114,,https://www.lcsc.com/it/product-detail/C65114.html,,,,,0.40€
+J7,1,Power Screw Terminal,,TerminalBlock_Altech:Altech_AK100_1x03_P5.00mm,,,,,C474901,,https://www.lcsc.com/it/product-detail/C474901.html,,,,,0.63€
+J8,4,PWM Header,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,,,,C5116483,,https://www.lcsc.com/it/product-detail/C5116483.html,,,,,0.40€
+"J9,J10,J11,J1",1,Header,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,,,,C5116483,,https://www.lcsc.com/it/product-detail/C5116483.html,,,,,0.40€
+R1,1,10K,,Resistor_SMD:R_0805_2012Metric,,,,,C2907219,,https://www.lcsc.com/it/product-detail/C2907219.html,,,,,0.31€
+"R2,R3",2,1K,,Resistor_SMD:R_0805_2012Metric,,,,,C3016664,,https://www.lcsc.com/it/product-detail/C3016664.html,,,,,0.17€
+SW1,1,SW_Push,,Button_Switch_THT:SW_PUSH_6mm,,,,,C36938886,,https://www.lcsc.com/it/product-detail/C36938886.html,,,,,0.86€
+U1,1,ATmega328-P,,Package_DIP:DIP-28_W7.62mm,,,,,C33901,,https://www.lcsc.com/it/product-detail/C33901.html,,,,,2.33€
+U3,1,AMS1117,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,,,,,C6186,,https://www.lcsc.com/it/product-detail/C6186.html,,,,,1.14€
+Y1,1,16MHz,,Crystal:Crystal_HC49-4H_Vertical,,,,,C16212,,https://www.lcsc.com/it/product-detail/C16212.html,,,,,0.40€
+U4,1,AMS1117,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,,,,,C6187,,https://www.lcsc.com/it/product-detail/C6187.html,,,,,0.93€

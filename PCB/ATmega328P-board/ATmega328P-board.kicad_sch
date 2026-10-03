@@ -5285,7 +5285,7 @@
 				)
 			)
 		)
-		(property "Value" "PWM Header"
+		(property "Value" "Header"
 			(at 262.636 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5450,7 +5450,7 @@
 				)
 			)
 		)
-		(property "Value" "PWM Header"
+		(property "Value" "Header"
 			(at 262.636 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6185,7 +6185,7 @@
 				)
 			)
 		)
-		(property "Value" "PWM Header"
+		(property "Value" "Header"
 			(at 262.636 75.184 0)
 			(show_name no)
 			(do_not_autoplace no)
